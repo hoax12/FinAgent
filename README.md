@@ -29,3 +29,5 @@ Prompts LLM to call search() and quote() tools, stitches responses, and streams 
 - Python 3.10+  
 - DuckDuckGo (no key required)  
 - Yahoo Finance (no key required)
+## DEMO 
+![image](https://github.com/user-attachments/assets/ef09fee6-734f-4ae2-96e5-51a9933460ff)
